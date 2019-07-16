@@ -1,0 +1,2 @@
+# TextStatistics
+The application analyzes the input text. It provides some statistics of the input text: finds the number of words, ten words that occurred once in the text, ten most popular words, and finds the distribution of frequencies of letters that occur in the text. If you drop in here tomorrow, you will find the next module of this application: it will allow detect the language of the input text. It will work on a basis of the distribution of letters' frequencies. The module will base on detectlanguage.com API and also on own calculation.
